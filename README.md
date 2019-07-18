@@ -1,1 +1,1 @@
-# INTEL-Multi_class
+# INTEL-Multi_Class
